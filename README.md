@@ -1,12 +1,19 @@
-fosstats
+Fosstats
 ========
 
-A simple site that aggregates data from sites like GitHub, BitBucket and others so we can bring attention to under appreciated FOSS projects.
+A simple site that aggregates data from sites like GitHub, BitBucket and others so we can bring attention to under
+appreciated FOSS projects.
 
-
-Contributing
+Current goal
 ------------
 
-This idea started from a conversation over in https://github.com/gittip/www.gittip.com/issues/881#issuecomment-24377505.
+Make a small website dedicated to scraping github (and other) data under several heuristics and have an API that
+others like Gittip.com could then use.
 
-As such, anyone is welcome to help out, brainstorm, submit ideas, patches, etc. Please help! :)
+
+Please contribute!
+------------------
+
+Anyone is welcome to help out, brainstorm, submit ideas, code, time, resources etc. Please help! :)
+
+Note: this idea started from a conversation over in https://github.com/gittip/www.gittip.com/issues/881#issuecomment-24377505.
